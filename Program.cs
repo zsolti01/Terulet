@@ -15,6 +15,10 @@ namespace Terulet
             int a;
             int b;
             int T;
+
+            a = Convert.ToInt32(Console.ReadLine());
+            b = Convert.ToInt32(Console.ReadLine());
+            T = a * b;
         }
         static void Main(string[] args)
         {
