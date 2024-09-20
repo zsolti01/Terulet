@@ -8,8 +8,17 @@ namespace Terulet
 {
     internal class Program
     {
+        static void terulet() 
+        {
+            Console.WriteLine("Téglalap területének számítása");
+
+            int a;
+            int b;
+            int T;
+        }
         static void Main(string[] args)
         {
+            terulet ();
         }
     }
 }
